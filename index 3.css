@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(111, 8, 175);
+}
+
+h1 {
+    font-family: Courgette, Helvetica, sans-serif;
+    font-size: 60px;
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+    border-style: dashed;
+    border-width: 5px;
+    padding: 2%;
+}
+
+p {
+    color: white;
+    font-family: Playfair Display, Helvetica, sans-serif;
+    font-size: 27px;
+}
+
+#img3 {
+    float: right;
+    margin-left: 27px;
+}
+
+h2 {
+    font-family: Courgette, Helvetica, sans-serif;
+    font-size: 55px;
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#img4 {
+    margin-left: 10%;
+}
+
+#img6 {
+    margin-left: 5%;
+}
