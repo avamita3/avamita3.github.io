@@ -1,0 +1,30 @@
+body {
+    background-color: darkblue;
+}
+
+#Raven {
+    width: 90%;
+    height: 90%;
+    display: block;
+    margin: auto;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 60px;
+    border-style: dotted;
+    border-color: grey;
+    border-width: 20px;
+    padding: 2%;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+
+a {
+    color: white;
+}
